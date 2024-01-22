@@ -34,7 +34,3 @@ Se han aplicado varias leyes de UX en el diseño del sitio:
 ## Autor
 
 Este proyecto fue creado por Javier González (@gonzgimnzjavier). Para cualquier pregunta o comentario, por favor contactar al autor.
-
-## Licencia
-
-Este proyecto es de código abierto bajo la licencia MIT.
