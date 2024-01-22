@@ -1,6 +1,7 @@
 # Sakura Sushi Food Truck
 ![Imagen de previsualización](assets/img/previsualizacion.png)
 Este proyecto es un sitio web para Sakura Sushi Food Truck, una empresa ficticia que fusiona la tecnología y la gastronomía para ofrecer una experiencia culinaria única. El sitio web fue creado por Javier González (@gonzgimnzjavier) y utiliza JavaScript Vanilla y Bootstrap.
+[Ver página Web](https://github.com/gonzgimnzjavier/WebUX/settings/pages)
 
 ## Contenido
 
